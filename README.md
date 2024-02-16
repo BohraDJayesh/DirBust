@@ -9,4 +9,3 @@ ________  .__      ___.                   __
 
 ```
 usage: dirb.py [-h] -u URL -w WORDLIST [-r REQUEST_PER_SECOND]
-dirb.py: error: the following arguments are required: -u/--url, -w/--wordlist
